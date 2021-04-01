@@ -3,33 +3,32 @@
 🏫 Education
 
 Univeristy of South Carolina Class of 2023<br/>
-Pursuing a Double Degree in Computer Science and Mathematics
-GPA 4.000/4.000
+Pursuing a Double Degree in Computer Science and Mathematics<br/>
+GPA 4.000/4.000<br/>
 
-🍏 Coursework and Code
+🍏 Coursework and Code<br/>
+CSCE 145 Algorithmic Design I<br/>
+CSCE 146 Algorithmic Design II<br/>
+CSCE 190 Computing in the Modern World<br/>
+CSCE 211 Digital Logic Design<br/>
+CSCE 212 Computer Architecture<br/>
+CSCE 215 UNIX/Linux Fundamentals<br/>
+CSCE 240 Advanced Programming Techniques<br/>
+CSCE 247 Intro to Software Engineering<br/>
+CSCE 311 Operating Systems<br/>
 
-CSCE 145 Algorithmic Design I
-CSCE 146 Algorithmic Design II
-CSCE 190 Computing in the Modern World
-CSCE 211 Digital Logic Design
-CSCE 212 Computer Architecture
-CSCE 215 UNIX/Linux Fundamentals
-CSCE 240 Advanced Programming Techniques
-CSCE 247 Intro to Software Engineering
-CSCE 311 Operating Systems
+✨ Leadership<br/>
+UofSC Interfraternity Council Executive Board - VP of Administration (Present)<br/>
+Theta Delta Chi Executive Board - Risk Management (Present)<br/>
+Theta Delta Chi Philantrhopy Chair (2019-2020)<br/>
+Theta Delta Chi Scholarship Chair (2020)<br/>
+BSA Eagle Scout - (2019)<br/>
 
-✨ Leadership
-UofSC Interfraternity Council Executive Board - VP of Administration (Present)
-Theta Delta Chi Executive Board - Risk Management (Present)
-Theta Delta Chi Philantrhopy Chair (2019-2020)
-Theta Delta Chi Scholarship Chair (2020)
-BSA Eagle Scout - (2019)
-
-🏆 Organizations and Awards
-Tau Beta Pi Engineering Honor Society
-Gamecock Club Swimming
-3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019
-Riverside Brookfield High School 2019 Male Athlete of the Year 
+🏆 Organizations and Awards<br/>
+Tau Beta Pi Engineering Honor Society<br/>
+Gamecock Club Swimming<br/>
+3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019<br/>
+Riverside Brookfield High School 2019 Male Athlete of the Year <br/>
 
 
 <!--
