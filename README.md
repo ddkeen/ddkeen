@@ -8,7 +8,7 @@ GPA 4.000/4.000<br/>
 
 🍏 Coursework and Code<br/>
 CSCE 145 Algorithmic Design I https://github.com/ddkeen/CSCE-145<br/>
-CSCE 146 Algorithmic Design II<br/>
+CSCE 146 Algorithmic Design II https://github.com/ddkeen/CSCE-146<br/>
 CSCE 190 Computing in the Modern World<br/>
 CSCE 211 Digital Logic Design<br/>
 CSCE 212 Computer Architecture<br/>
