@@ -2,7 +2,7 @@
 
 🏫 Education
 
-Univeristy of South Carolina Class of 2023\n
+Univeristy of South Carolina Class of 2023<br/>
 Pursuing a Double Degree in Computer Science and Mathematics
 GPA 4.000/4.000
 
