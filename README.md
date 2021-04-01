@@ -7,7 +7,7 @@ Pursuing a Double Degree in Computer Science and Mathematics<br/>
 GPA 4.000/4.000<br/>
 
 🍏 Coursework and Code<br/>
-CSCE 145 Algorithmic Design I<br/>
+CSCE 145 Algorithmic Design https://github.com/ddkeen/CSCE-145 I<br/>
 CSCE 146 Algorithmic Design II<br/>
 CSCE 190 Computing in the Modern World<br/>
 CSCE 211 Digital Logic Design<br/>
