@@ -16,6 +16,10 @@ CSCE 215 UNIX/Linux Fundamentals<br/>
 CSCE 240 Advanced Programming Techniques<br/>
 CSCE 247 Intro to Software Engineering<br/>
 CSCE 311 Operating Systems<br/>
+MATH 241 Vector Calculus<br/>
+MATH 300 Intro to Advanced Mathematics
+MATH 344 Linear Algebra
+MATH 374 Discrete Structures
 
 ✨ Leadership<br/>
 UofSC Interfraternity Council Executive Board - VP of Administration (Present)<br/>
