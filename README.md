@@ -30,6 +30,8 @@ Gamecock Club Swimming<br/>
 3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019<br/>
 Riverside Brookfield High School 2019 Male Athlete of the Year <br/>
 
+📫 Contact info<br/>
+ddkeen@email.sc.edu
 
 <!--
 **ddkeen/ddkeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
