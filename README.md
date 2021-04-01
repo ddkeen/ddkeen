@@ -11,7 +11,7 @@ CSCE 145 Algorithmic Design I https://github.com/ddkeen/CSCE-145<br/>
 CSCE 146 Algorithmic Design II https://github.com/ddkeen/CSCE-146<br/>
 CSCE 190 Computing in the Modern World<br/>
 CSCE 211 Digital Logic Design<br/>
-CSCE 212 Computer Architecture<br/>
+CSCE 212 Computer Architecture https://github.com/ddkeen/CSCE-212<br/>
 CSCE 215 UNIX/Linux Fundamentals<br/>
 CSCE 240 Advanced Programming Techniques<br/>
 CSCE 247 Intro to Software Engineering<br/>
