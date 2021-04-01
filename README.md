@@ -27,7 +27,7 @@ Theta Delta Chi Philantrhopy Chair (2019-2020)<br/>
 Theta Delta Chi Scholarship Chair (2020)<br/>
 BSA Eagle Scout - (2019)<br/>
 
-🏆 **Organizations** and Awards<br/>
+🏆 **Organizations** **and Awards**<br/>
 Tau Beta Pi Engineering Honor Society<br/>
 Gamecock Club Swimming<br/>
 3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019<br/>
