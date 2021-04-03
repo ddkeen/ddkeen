@@ -12,7 +12,7 @@ CSCE 190 Computing in the Modern World<br/>
 CSCE 211 Digital Logic Design<br/>
 CSCE 212 Computer Architecture https://github.com/ddkeen/CSCE-212<br/>
 CSCE 215 UNIX/Linux Fundamentals https://github.com/ddkeen/CSCE-215<br/>
-CSCE 240 Advanced Programming Techniques https://github.com/ddkeen/CSCE-247<br/>
+CSCE 240 Advanced Programming Techniques https://github.com/ddkeen/CSCE-240<br/>
 CSCE 247 Intro to Software Engineering<br/>
 CSCE 311 Operating Systems<br/>
 MATH 241 Vector Calculus<br/>
