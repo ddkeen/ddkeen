@@ -5,6 +5,13 @@ Univeristy of South Carolina Class of 2023<br/>
 Pursuing a Double Degree in Computer Science and Mathematics<br/>
 GPA 4.000/4.000<br/>
 
+🔭 **Projects**
+**Criminal Storage System** - Software Engineering Semester Team Project
+- Repositroy: https://github.com/bgrose/CriminalStorageSystem
+- Agile Sprint Board: https://trello.com/b/xM4fCRt1/quick-cocks-agile-sprint-board
+- Requirements: https://docs.google.com/document/d/1_aQu3TJSzK8JfHaVcEaRp-SpHalLImIxv7gpN3-UCuc/edit?usp=sharing
+- Design Document: https://docs.google.com/document/d/1fgtBcqIow_y2lhUUXtLR36ijhGAJu8pu0byV1agX0wA/edit?usp=sharing
+
 🍏 **Coursework and Code**<br/>
 CSCE 145 Algorithmic Design I https://github.com/ddkeen/CSCE-145<br/>
 CSCE 146 Algorithmic Design II https://github.com/ddkeen/CSCE-146<br/>
