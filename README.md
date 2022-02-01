@@ -1,9 +1,9 @@
-👋 Hi there, I'm David, a rising-junior Computer Science student with 4.0 GPA looking for a software development internship in backend engineering & API development.
+👋 Hi there, I'm David, a junior Computer Science and Mathematics student at UofSC Honors College
 
 🏫 **Education**<br/>
 Univeristy of South Carolina Class of 2023<br/>
 Pursuing a Double Degree in Computer Science and Mathematics<br/>
-GPA 4.000/4.000<br/>
+GPA 3.965/4.000<br/>
 
 🔭 **Projects**<br/>
 **Criminal Storage System** - Software Engineering Semester Team Project
