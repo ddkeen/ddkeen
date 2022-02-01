@@ -1,4 +1,4 @@
-👋 Hi there, I'm David, a junior Computer Science and Mathematics student at UofSC Honors College
+👋 Hi there, I'm David, a junior Computer Science and Mathematics student at the UofSC Honors College
 
 🏫 **Education**<br/>
 Univeristy of South Carolina Class of 2023<br/>
@@ -22,14 +22,19 @@ CSCE 215 UNIX/Linux Fundamentals https://github.com/ddkeen/CSCE-215<br/>
 CSCE 240 Advanced Programming Techniques https://github.com/ddkeen/CSCE-240<br/>
 CSCE 247 Intro to Software Engineering<br/>
 CSCE 311 Operating Systems<br/>
+CSCE 330 Programming Language Structures<br/>
+CSCE 350 Data Structures and Algorithms<br/>
+CSCE 355 Foundations of Computation<br/>
 MATH 241 Vector Calculus<br/>
-MATH 300 Intro to Advanced Mathematics
-MATH 344 Linear Algebra
-MATH 374 Discrete Structures
+MATH 300 Intro to Advanced Mathematics<br/>
+MATH 344/544 Linear Algebra<br/>
+MATH 374/574 Discrete Structures/Discrect Mathematics<br/>
+STAT 511 Probability<br/>
 
 ✨ **Leadership**<br/>
-UofSC Interfraternity Council Executive Board - VP of Administration (Present)<br/>
-Theta Delta Chi Executive Board - Risk Management (Present)<br/>
+UofSC Interfraternity Council Executive Board - President (Present) <br/>
+UofSC Interfraternity Council Executive Board - VP of Administration (2020-2021)<br/>
+Theta Delta Chi Executive Board - Risk Management (2020-2021)<br/>
 Theta Delta Chi Philantrhopy Chair (2019-2020)<br/>
 Theta Delta Chi Scholarship Chair (2020)<br/>
 BSA Eagle Scout - (2019)<br/>
