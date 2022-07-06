@@ -1,9 +1,9 @@
-👋 Hi there, I'm David, a junior Computer Science and Mathematics student at the UofSC Honors College
+👋 Hi there, I'm David, a senior Computer Science and Mathematics student at the UofSC Honors College
 
 🏫 **Education**<br/>
 Univeristy of South Carolina Class of 2023<br/>
 Pursuing a Double Degree in Computer Science and Mathematics<br/>
-GPA 3.965/4.000<br/>
+GPA 3.942/4.000<br/>
 
 🔭 **Projects**<br/>
 **Criminal Storage System** - Software Engineering Semester Team Project
@@ -30,6 +30,7 @@ MATH 300 Intro to Advanced Mathematics<br/>
 MATH 344/544 Linear Algebra<br/>
 MATH 374/574 Discrete Structures/Discrect Mathematics<br/>
 STAT 511 Probability<br/>
+MATH 580 Number Theory
 
 ✨ **Leadership**<br/>
 UofSC Interfraternity Council Executive Board - President (Present) <br/>
@@ -40,6 +41,7 @@ Theta Delta Chi Scholarship Chair (2020)<br/>
 BSA Eagle Scout - (2019)<br/>
 
 🏆 **Organizations** **and Awards**<br/>
+Phi Beta Kappa Honor Society <br/>
 Tau Beta Pi Engineering Honor Society<br/>
 Gamecock Club Swimming<br/>
 3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019<br/>
