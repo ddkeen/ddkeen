@@ -45,7 +45,6 @@ Phi Beta Kappa Honor Society <br/>
 Tau Beta Pi Engineering Honor Society<br/>
 Gamecock Club Swimming<br/>
 3rd place at the UofSC 24-Hour-Code-A-thon, sponsored by Association for Computing Machinery 2019<br/>
-Riverside Brookfield High School 2019 Male Athlete of the Year <br/>
 
 📫 **Contact Info**<br/>
 ddkeen@email.sc.edu
