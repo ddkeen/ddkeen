@@ -3,7 +3,7 @@
 🏫 **Education**<br/>
 Univeristy of South Carolina Class of 2023<br/>
 Pursuing a Double Degree in Computer Science and Mathematics<br/>
-GPA 3.942/4.000<br/>
+GPA 3.90/4.00<br/>
 
 🔭 **Projects**<br/>
 **Criminal Storage System** - Software Engineering Semester Team Project
